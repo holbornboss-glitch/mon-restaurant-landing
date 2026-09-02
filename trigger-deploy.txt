@@ -1,0 +1,4 @@
+Trigger deployed workflows
+
+This file was added to trigger the GitHub Actions workflows (download-menus.yml and deploy-pages.yml) via a push on main.
+Timestamp: 2026-09-02T14:18:00Z
