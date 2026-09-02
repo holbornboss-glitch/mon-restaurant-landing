@@ -1,0 +1,4 @@
+Trigger download-menus workflow
+
+Ce fichier a été ajouté pour déclencher le workflow `download-menus.yml` qui télécharge les PDFs depuis Google Drive et les commitera dans /menus/.
+Timestamp: 2026-09-02T15:20:00Z
